@@ -2,7 +2,7 @@
 
 本人たちの許可もらっています。</br>
 
-以下の規約</br>
+規約</br>
 ・無断の使用は厳禁です。</br>
 ・使用したいときは必ずネコうどん（https://twitter.com/catudon_1276 )に連絡してください</br>
 ・ハットについての罵詈雑言はめめ村の村民たちではなく、この私に申し上げてください。</br>
@@ -23,3 +23,7 @@
  ・がんます（@gun_master0214）</br>
  ・ぐさお（@16Gusao）</br>
  ・ぜんこぱす（@zennkopasu）</br>
+</br>
+使用許可出しているMOD一覧</br>
+・Nebula on the Ship（https://github.com/Dolly1016/Nebula/)</br>
+・SuperNewRoles（https://github.com/ykundesu/SuperNewRoles）</br>
