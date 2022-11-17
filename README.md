@@ -24,6 +24,6 @@
  ・ぐさお（@16Gusao）</br>
  ・ぜんこぱす（@zennkopasu）</br>
 </br>
-使用許可出しているMOD一覧</br>
+使用されているMOD一覧</br>
 ・Nebula on the Ship（https://github.com/Dolly1016/Nebula/)</br>
 ・SuperNewRoles（https://github.com/ykundesu/SuperNewRoles）</br>
