@@ -294,5 +294,12 @@
                 "Hash": "f05df18cb2e8f7a10d54d9574c8f2e43"
             }
         }        
-]
-}
+    ],
+    "packages": [
+            {
+                "Package": "Mememura Hats",
+                "Format": "Mememura Hats",
+                "Priority" : "-1"
+            }
+        ]
+    }
