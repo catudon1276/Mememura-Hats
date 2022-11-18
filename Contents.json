@@ -1,0 +1,298 @@
+{
+    "hats": [
+
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u3081\u3081\u3093\u3068\u3082\u308a",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Mementomori.png",
+                "Hash": "31d11dbfc8541c22739f6655570fd2eb" 
+            },
+            "Climb": {
+                "Address": "Mementomori_Climb.png",
+                "Hash": "c4e46094335ffbe4d20ba9bcb6ad8b7c"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u30ec\u30a4\u30e9\u30fc",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Reira-.png",
+                "Hash": "e472a5d0e64be6892d1ab4979c122bf2"
+            },
+            "Climb": {
+                "Address": "Reira-_Climb.png",
+                "Hash": "a93a5e6c2686a625973a9bd1da7f0ab7"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u30a6\u30d1\u30d1\u30ed\u30f3",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Upaparon.png",
+                "Hash": "8b1726d686010cd0d9bc54c3ebc1420e"
+                
+            },
+            "Climb": {
+                "Address": "Upaparon_Climb.png",
+                "Hash": "89adcea9641da59f41b112c982ab9b89"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "Latte",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Latte.png",
+                "Hash": "76a37cdf042ca0fba52e72ca9f8c98c9" 
+            },
+            "Climb": {
+                "Address": "Latte_Climb.png",
+                "Hash": "42323d8412131f2e05c785aabbede01e"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u307f\u305e\u308c",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Mizore.png",
+                "Hash": "cc10b92dec7bc013db0e1a6484f87333"
+                
+            },
+            "Climb": {
+                "Address": "Mizore_Climb.png",
+                "Hash": "e472df09b1f0ec2a33f7bdf0cc683de4"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "Iemon",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Iemon.png",
+                "Hash": "55fb72f3c4ecdda7df28dc3f62e8b35a"
+            },
+            "Climb": {
+                "Address": "Iemon_Climb.png",
+                "Hash": "96d1b22b2cbbeb3eae4e641ec85995a2"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u6771\u96f2\u690e\u540d",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Sreimari.png",
+                "Hash": "c450beb260796f5083f71ec146101b43"
+            },
+            "Climb": {
+                "Address": "Sreimari_Climb.png",
+                "Hash": "939afad17b89e8b5efd6a9e2edc9a0e6"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u30e1\u30c6\u30f2",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Meteo.png",
+                "Hash": "69aa9ab66127a5ba11207c248471fc87"
+            },
+            "Climb": {
+                "Address": "Meteo_Climb.png",
+                "Hash": "2a57ee08d361b2a55d8b2eb4454ff721" 
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u67ca\u9cf4\u30eb\u30ab",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Luka.png",
+                "Hash": "cddd1035d73c9c95ff87e3d7201303bd"
+            },
+            "Climb": {
+                "Address": "Luka_Climb.png",
+                "Hash": "8e378cf09d88a77e91b6c57231275927"
+                
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u67ca\u9cf4\u30d2\u30ca",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Hina.png",
+                "Hash": "78e9787fc51f9e44bee3ff733d15efe0"
+            },
+            "Climb": {
+                "Address": "Hina_Climb.png",
+                "Hash": "eca69bee18c7430d5f2f30bf3170e59b"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u5fa1\u524d\u5d0e\u516b\u5e61\u5bae",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "H.Diaz.png",
+                "Hash": "c95bfb9791f4a3b8b9f16cfbdec6b8b8"
+            },
+            "Climb": {
+                "Address": "H.Diaz_Climb.png",
+                "Hash": "d26ecef9d965dbf21dfa9c67898b3aff"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u307e\u308a\u3087",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Maryo.png",
+                "Hash": "eb906f3cd67d4bb10a5625d73316dc6d"
+            },
+            "Climb": {
+                "Address": "Maryo_Climb.png",
+                "Hash": "e2168e96c6a5240faefe14c8f0f44df2"
+                
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u30ac\u30f3\u30de\u30b9",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Ganmas.png",
+                "Hash": "0cc8c6399b58ca58a58d2e179e19bf3a"
+            },
+            "Climb": {
+                "Address": "Ganmas_Climb.png",
+                "Hash": "2481e649ea2d3b5808638aab18a36ff0"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u3050\u3055\u304a",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Gusao.png",
+                "Hash": "f3116ec9910f254d6bd13f4b93a39a87"
+            },
+            "Climb": {
+                "Address": "Gusao_Climb.png",
+                "Hash": "452aae968ef1c075f10260a251b2dc93"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u305c\u3093\u3053\u3071\u3059",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Zennkopasu.png",
+                "Hash": "8dd1cc422bdee5da5c7b70e57772e473"
+            },
+            "Climb": {
+                "Address": "Zennkopasu_Climb.png",
+                "Hash": "717649e8525a9b1eeb60bba38ef0f91f"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u30cd\u30af\u30ed\u30de\u30f3\u30b5\u30fc\u30bb\u30c3\u30c8",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Accessories1.png",
+                "Hash": "bfb451dbd3edbb00ba2faa55a7f45885"
+            },
+            "Climb": {
+                "Address": "Accessories1_Climb.png",
+                "Hash": "87affd8030db0d0fba0505a5dbd54e0f"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u97f3\u5272\u308c\u6ce8\u610f\u2606",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Accessories2.png",
+                "Hash": "fda9e40bc90005fa8642d489dc9457b5"
+            },
+            "Climb": {
+                "Address": "Empty_m.png",
+                "Hash": "f05df18cb2e8f7a10d54d9574c8f2e43"
+            }
+        }        
+]
+}
