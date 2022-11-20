@@ -1,0 +1,177 @@
+{
+    "hats": [
+
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"めめんともり",
+            "condition": "None",
+             "resource": "Mementomori.png",
+            "climbresource": "Mementomori_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"レイラー",
+            "condition": "None",
+             "resource": "Reira-.png",
+            "climbresource": "Reira-_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"ウパパロン",
+            "condition": "None",
+             "resource": "Upaparon.png",
+            "climbresource": "Upaparon_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"Latte",
+            "condition": "None",
+             "resource": "Latte.png",
+            "climbresource": "Latte_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"みぞれ",
+            "condition": "None",
+             "resource": "Mizore.png",
+            "climbresource": "Mizore_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"イエモン",
+            "condition": "None",
+             "resource": "Iemon.png",
+            "climbresource": "Iemon_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"東雲椎名",
+            "condition": "None",
+             "resource": "Sreimari.png",
+            "climbresource": "Sreimari_Climb.png"
+        
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"メテヲ",
+            "condition": "None",
+             "resource": "Meteo.png",
+            "climbresource": "Meteo_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"柊鳴ルカ",
+            "condition": "None",
+             "resource": "Luka.png",
+            "climbresource": "Luka_Climb.png"
+                
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"柊鳴ヒナ",
+            "condition": "None",
+             "resource": "Hina.png",
+            "climbresource": "Hina_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"御前崎八幡宮",
+            "condition": "None",
+             "resource": "H.Diaz.png",
+            "climbresource": "H.Diaz_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"まりょ",
+            "condition": "None",
+             "resource": "Maryo.png",
+            "climbresource": "Maryo_Climb.png"
+                
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"がんます",
+            "condition": "None",
+             "resource": "Ganmas.png",
+            "climbresource": "Ganmas_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"ぐさお",
+            "condition": "None",
+             "resource": "Gusao.png",
+            "climbresource": "Gusao_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"ぜんこぱす",
+            "condition": "None",
+             "resource": "Zennkopasu.png",
+            "climbresource": "Zennkopasu_Climb.png"
+        
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"ネクロマンサーセット",
+            "condition": "None",
+             "resource": "Accessories1.png",
+            "climbresource": "Accessories1_Climb.png"
+            
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "name":"音割れ注意☆",
+            "condition": "None",
+             "resource": "Accessories2.png",
+            "climbresource": "Empty_m.png"
+            }
+        ]
+    }        
+
