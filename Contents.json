@@ -195,24 +195,6 @@
     
             "Author": "catudon",
             "Package": "Mememura Hats",
-            "Name" : "\u307e\u308a\u3087",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Behind": "false",
-            "Main": {
-                "Address": "Maryo.png",
-                "Hash": "eb906f3cd67d4bb10a5625d73316dc6d"
-            },
-            "Climb": {
-                "Address": "Maryo_Climb.png",
-                "Hash": "e2168e96c6a5240faefe14c8f0f44df2"
-                
-            }
-        },
-        {
-    
-            "Author": "catudon",
-            "Package": "Mememura Hats",
             "Name" : "\u30ac\u30f3\u30de\u30b9",
             "Bounce": "false",
             "Adaptive": "false",
