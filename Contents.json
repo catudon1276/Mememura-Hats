@@ -241,6 +241,40 @@
                 "Address": "Zennkopasu_Climb.png",
                 "Hash": "717649e8525a9b1eeb60bba38ef0f91f"
             }
+        },       
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u8336\u5b50",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Chaco.png",
+                "Hash": "ss"
+            },
+            "Climb": {
+                "Address": "Chaco_Climb.png",
+                "Hash": "werd"
+            }
+        },       
+        {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u83d3\u5b50",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Caco.png",
+                "Hash": "dsfsef"
+            },
+            "Climb": {
+                "Address": "Caco_Climb.png",
+                "Hash": "addfeghjhtsg"
+            }
         },
         {
     
