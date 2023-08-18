@@ -133,11 +133,31 @@
             "climbresource": "Gusao_Climb.png"
             
         },
-        {
+　　    {
     
             "author": "catudon",
             "package": "Mememura Hats",
             "name":"ぜんこぱす",
+            "condition": "None",
+             "resource": "Zennkopasu.png",
+            "climbresource": "Zennkopasu_Climb.png"
+        
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Mememura Hats",
+            "name":"茶子",
+            "condition": "None",
+             "resource": "Zennkopasu.png",
+            "climbresource": "Zennkopasu_Climb.png"
+        
+        },
+　　　  {
+    
+            "author": "catudon",
+            "package": "Mememura Hats",
+            "name":"菓子",
             "condition": "None",
              "resource": "Zennkopasu.png",
             "climbresource": "Zennkopasu_Climb.png"
