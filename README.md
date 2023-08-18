@@ -29,6 +29,7 @@
  ・がんます（@gun_master0214）</br>
  ・ぐさお（@16Gusao）</br>
  ・ぜんこぱす（@zennkopasu）</br>
+ ・茶子(@chaaaco_youtube）</br>
 </br>
 
 ## 使用されているMOD一覧</br>
