@@ -28,7 +28,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Reira-.png",
-                "Hash": "e472a5d0e64be6892d1ab4979c122bf2"
+                "Hash": "9704209855fa605928ce93d4493ecf26"
             },
             "Climb": {
                 "Address": "Reira-_Climb.png",
@@ -45,12 +45,12 @@
             "Behind": "false",
             "Main": {
                 "Address": "Upaparon.png",
-                "Hash": "8b1726d686010cd0d9bc54c3ebc1420e"
+                "Hash": "1efc955f876509b1c07d0ab6e6e9b33e"
                 
             },
             "Climb": {
                 "Address": "Upaparon_Climb.png",
-                "Hash": "89adcea9641da59f41b112c982ab9b89"
+                "Hash": "965c5a62a848cd3f0f54e3078a447297"
             }
         },
         {
@@ -63,7 +63,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Latte.png",
-                "Hash": "5aa5721d61960ffbaae5dac41dad88c1" 
+                "Hash": "86ffbc3faecb6171ceefc4d7c0bc6a68" 
             },
             "Climb": {
                 "Address": "Latte_Climb.png",
@@ -80,7 +80,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Mizore.png",
-                "Hash": "cc10b92dec7bc013db0e1a6484f87333"
+                "Hash": "14741ea730879b50c9a4b86d43faf586"
                 
             },
             "Climb": {
@@ -132,7 +132,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Meteo.png",
-                "Hash": "69aa9ab66127a5ba11207c248471fc87"
+                "Hash": "772bf006ee61c86a8bb813c52f488818"
             },
             "Climb": {
                 "Address": "Meteo_Climb.png",
@@ -167,7 +167,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Hina.png",
-                "Hash": "78e9787fc51f9e44bee3ff733d15efe0"
+                "Hash": "921d2a377337bccbbd77d9ffb3350260"
             },
             "Climb": {
                 "Address": "Hina_Climb.png",
@@ -184,11 +184,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "H.Diaz.png",
-                "Hash": "c95bfb9791f4a3b8b9f16cfbdec6b8b8"
+                "Hash": "938fdc2d2f9951d37f60376c5768250c"
             },
             "Climb": {
                 "Address": "H.Diaz_Climb.png",
-                "Hash": "d26ecef9d965dbf21dfa9c67898b3aff"
+                "Hash": "cc512d1d8af289e8edc5926ad97ccdd2"
             }
         },
         {
@@ -252,11 +252,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Chaco.png",
-                "Hash": "ss"
+                "Hash": "035ed81bbd9a6a9859da6f8ff48bfa50"
             },
             "Climb": {
                 "Address": "Chaco_Climb.png",
-                "Hash": "werd"
+                "Hash": "e0edd4485fa367e4796030553dacad16"
             }
         },       
         {
@@ -269,11 +269,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Caco.png",
-                "Hash": "dsfsef"
+                "Hash": "b87f06a0fa8659756735457d23aa1b07"
             },
             "Climb": {
                 "Address": "Caco_Climb.png",
-                "Hash": "addfeghjhtsg"
+                "Hash": "813cff662391d81588da225db70587b1"
             }
         },
         {
