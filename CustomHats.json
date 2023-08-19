@@ -149,8 +149,8 @@
             "package": "Mememura Hats",
             "name":"茶子",
             "condition": "None",
-             "resource": "Zennkopasu.png",
-            "climbresource": "Zennkopasu_Climb.png"
+             "resource": "Chaco.png",
+            "climbresource": "Chaco_Climb.png"
         
         },
          {
@@ -159,8 +159,8 @@
             "package": "Mememura Hats",
             "name":"菓子",
             "condition": "None",
-             "resource": "Zennkopasu.png",
-            "climbresource": "Zennkopasu_Climb.png"
+             "resource": "Caco.png",
+            "climbresource": "Caco_Climb.png"
         
         },
         {
