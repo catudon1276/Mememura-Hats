@@ -45,12 +45,12 @@
             "Behind": "false",
             "Main": {
                 "Address": "Upaparon.png",
-                "Hash": "1efc955f876509b1c07d0ab6e6e9b33e"
+                "Hash": "953cd84d547200babcf272a6fb57842e"
                 
             },
             "Climb": {
                 "Address": "Upaparon_Climb.png",
-                "Hash": "965c5a62a848cd3f0f54e3078a447297"
+                "Hash": "7b5b0590133fe482d217d5061f3e46c6"
             }
         },
                 {
@@ -63,12 +63,12 @@
             "Behind": "false",
             "Main": {
                 "Address": "Upaparon2.png",
-                "Hash": "e"
+                "Hash": "15177a53eece2fd5bf21a48afc13b6cd"
                 
             },
             "Climb": {
                 "Address": "Upaparon2_Climb.png",
-                "Hash": "9658a447297"
+                "Hash": "965c5a62a848cd3f0f54e3078a447297"
             }
         },
         {
@@ -81,11 +81,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Latte.png",
-                "Hash": "86ffbeefc4d7c0bc6a68" 
+                "Hash": "46f669b37e8818ec49749b2fe2fc7102" 
             },
             "Climb": {
                 "Address": "Latte_Climb.png",
-                "Hash": "42323d845c785aabbede01e"
+                "Hash": "b7a23fad7ca899bd6b0f558038c3ce36"
             }
         },
         {
@@ -202,7 +202,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "H.Diaz.png",
-                "Hash": "938fdc2d2f9951d37f60376c5768250c"
+                "Hash": "591bfec3faa0079d594c07115c2e22b4"
             },
             "Climb": {
                 "Address": "H.Diaz_Climb.png",
