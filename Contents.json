@@ -53,6 +53,24 @@
                 "Hash": "965c5a62a848cd3f0f54e3078a447297"
             }
         },
+                {
+    
+            "Author": "catudon",
+            "Package": "Mememura Hats",
+            "Name" : "\u30a6\u30d1\u30d1\u30ed\u30f3(\u30de\u30ea\u30f3)",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Upaparon2.png",
+                "Hash": "e"
+                
+            },
+            "Climb": {
+                "Address": "Upaparon2_Climb.png",
+                "Hash": "9658a447297"
+            }
+        },
         {
     
             "Author": "catudon",
@@ -63,11 +81,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Latte.png",
-                "Hash": "86ffbc3faecb6171ceefc4d7c0bc6a68" 
+                "Hash": "86ffbeefc4d7c0bc6a68" 
             },
             "Climb": {
                 "Address": "Latte_Climb.png",
-                "Hash": "42323d8412131f2e05c785aabbede01e"
+                "Hash": "42323d845c785aabbede01e"
             }
         },
         {
