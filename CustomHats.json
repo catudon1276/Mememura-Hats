@@ -31,6 +31,16 @@
             "climbresource": "Upaparon_Climb.png"
             
         },
+    　  {
+    
+            "author": "catudon",
+            "package": "Mememura Hats",
+            "name":"ウパパロン(マリン)",
+            "condition": "None",
+             "resource": "Upaparon2.png",
+            "climbresource": "Upaparon2_Climb.png"
+            
+        },
         {
     
             "author": "catudon",
