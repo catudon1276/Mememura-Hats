@@ -11,7 +11,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Mementomori.png",
-                "Hash": "31d11dbfc8541c22739f6655570fd2eb" 
+                "Hash": "b512c43812e681b0fbeb736488f2b4f3" 
             },
             "Climb": {
                 "Address": "Mementomori_Climb.png",
@@ -274,7 +274,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Gusao(Maid).png",
-                "Hash": "8a9839a1ac01228bdf32a58777a0a811"
+                "Hash": "192b47d415f0ccbea8c0414ddeab1fc3"
             },
             "Climb": {
                 "Address": "Gusao(Maid)_Climb.png",
