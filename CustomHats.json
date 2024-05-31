@@ -15,6 +15,16 @@
     
             "author": "catudon",
             "package": "Mememura Hats",
+            "name":"めめんともり(ストリート)",
+            "condition": "None",
+             "resource": "Mementomori(Street).png",
+            "climbresource": "Mementomori(Street)_Climb.png"
+            
+        },        
+        {
+    
+            "author": "catudon",
+            "package": "Mememura Hats",
             "name":"レイラー",
             "condition": "None",
              "resource": "Reira-.png",
@@ -31,7 +41,7 @@
             "climbresource": "Upaparon_Climb.png"
             
         },
-    　  {
+         {
     
             "author": "catudon",
             "package": "Mememura Hats",
@@ -141,6 +151,16 @@
             "condition": "None",
              "resource": "Gusao.png",
             "climbresource": "Gusao_Climb.png"
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Mememura Hats",
+            "name":"ぐさお（メイド）",
+            "condition": "None",
+             "resource": "Gusao(Maid).png",
+            "climbresource": "Gusao(Maid)_Climb.png"
             
         },
         {
