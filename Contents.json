@@ -49,7 +49,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Reira-.png",
-                "Hash": "9704209855fa605928ce93d4493ecf26"
+                "Hash": "9e633203e5c0594f4e7039cc47c2fcb0"
             },
             "Climb": {
                 "Address": "Reira-_Climb.png",
@@ -102,11 +102,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Latte.png",
-                "Hash": "46f669b37e8818ec49749b2fe2fc7102" 
+                "Hash": "75f81d3eab69ab4b7df54cf752007a49" 
             },
             "Climb": {
                 "Address": "Latte_Climb.png",
-                "Hash": "b7a23fad7ca899bd6b0f558038c3ce36"
+                "Hash": "49dad18fa54b54658a97d70baa616e5d"
             }
         },
         {
@@ -223,7 +223,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "H.Diaz.png",
-                "Hash": "591bfec3faa0079d594c07115c2e22b4"
+                "Hash": "560588c86e84bbad63bc58e35f393ea2"
             },
             "Climb": {
                 "Address": "H.Diaz_Climb.png",
