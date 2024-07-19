@@ -7,8 +7,8 @@
             "package": "Mememura Hats",
             "name":"めめんともり",
             "condition": "None",
-             "resource": "Mementomori.png",
-            "climbresource": "Mementomori_Climb.png"
+             "resource": "Mementomori(CU).png",
+            "climbresource": "Mementomori_Climb(CU).png"
             
         },
         {
@@ -17,8 +17,8 @@
             "package": "Mememura Hats",
             "name":"めめんともり(ストリート)",
             "condition": "None",
-             "resource": "Mementomori(Street).png",
-            "climbresource": "Mementomori(Street)_Climb.png"
+             "resource": "Mementomori(Street)(CU).png",
+            "climbresource": "Mementomori(Street)_Climb(CU).png"
             
         },        
         {
@@ -27,8 +27,8 @@
             "package": "Mememura Hats",
             "name":"レイラー",
             "condition": "None",
-             "resource": "Reira-.png",
-            "climbresource": "Reira-_Climb.png"
+             "resource": "Reira-(CU).png",
+            "climbresource": "Reira-_Climb(CU).png"
             
         },
         {
@@ -37,8 +37,8 @@
             "package": "Mememura Hats",
             "name":"ウパパロン",
             "condition": "None",
-             "resource": "Upaparon.png",
-            "climbresource": "Upaparon_Climb.png"
+             "resource": "Upaparon(CU).png",
+            "climbresource": "Upaparon_Climb(CU).png"
             
         },
          {
@@ -47,8 +47,8 @@
             "package": "Mememura Hats",
             "name":"ウパパロン(マリン)",
             "condition": "None",
-             "resource": "Upaparon2.png",
-            "climbresource": "Upaparon2_Climb.png"
+             "resource": "Upaparon2(CU).png",
+            "climbresource": "Upaparon2_Climb(CU).png"
             
         },
         {
@@ -57,8 +57,8 @@
             "package": "Mememura Hats",
             "name":"Latte",
             "condition": "None",
-             "resource": "Latte.png",
-            "climbresource": "Latte_Climb.png"
+             "resource": "Latte(CU).png",
+            "climbresource": "Latte_Climb(CU).png"
             
         },
         {
@@ -67,8 +67,8 @@
             "package": "Mememura Hats",
             "name":"みぞれ",
             "condition": "None",
-             "resource": "Mizore.png",
-            "climbresource": "Mizore_Climb.png"
+             "resource": "Mizore(CU).png",
+            "climbresource": "Mizore_Climb(CU).png"
             
         },
         {
@@ -87,8 +87,8 @@
             "package": "Mememura Hats",
             "name":"東雲椎名",
             "condition": "None",
-             "resource": "Sreimari.png",
-            "climbresource": "Sreimari_Climb.png"
+             "resource": "Sreimari(CU).png",
+            "climbresource": "Sreimari_Climb(CU).png"
         
         },
         {
@@ -97,8 +97,8 @@
             "package": "Mememura Hats",
             "name":"メテヲ",
             "condition": "None",
-             "resource": "Meteo.png",
-            "climbresource": "Meteo_Climb.png"
+             "resource": "Meteo(CU).png",
+            "climbresource": "Meteo_Climb(CU).png"
             
         },
         {
@@ -107,8 +107,8 @@
             "package": "Mememura Hats",
             "name":"柊鳴ルカ",
             "condition": "None",
-             "resource": "Luka.png",
-            "climbresource": "Luka_Climb.png"
+             "resource": "Luka(CU).png",
+            "climbresource": "Luka_Climb(CU).png"
                 
             
         },
@@ -118,8 +118,8 @@
             "package": "Mememura Hats",
             "name":"柊鳴ヒナ",
             "condition": "None",
-             "resource": "Hina.png",
-            "climbresource": "Hina_Climb.png"
+             "resource": "Hina(CU).png",
+            "climbresource": "Hina_Climb(CU).png"
             
         },
         {
@@ -128,8 +128,8 @@
             "package": "Mememura Hats",
             "name":"御前崎八幡宮",
             "condition": "None",
-             "resource": "H.Diaz.png",
-            "climbresource": "H.Diaz_Climb.png"
+             "resource": "H.Diaz(CU).png",
+            "climbresource": "H.Diaz_Climb(CU).png"
             
         },
 
@@ -139,8 +139,8 @@
             "package": "Mememura Hats",
             "name":"がんます",
             "condition": "None",
-             "resource": "Ganmas.png",
-            "climbresource": "Ganmas_Climb.png"
+             "resource": "Ganmas(CU).png",
+            "climbresource": "Ganmas_Climb(CU).png"
             
         },
         {
@@ -149,8 +149,8 @@
             "package": "Mememura Hats",
             "name":"ぐさお",
             "condition": "None",
-             "resource": "Gusao.png",
-            "climbresource": "Gusao_Climb.png"
+             "resource": "Gusao(CU).png",
+            "climbresource": "Gusao_Climb(CU).png"
             
         },
         {
@@ -159,8 +159,8 @@
             "package": "Mememura Hats",
             "name":"ぐさお（メイド）",
             "condition": "None",
-             "resource": "Gusao(Maid).png",
-            "climbresource": "Gusao(Maid)_Climb.png"
+             "resource": "Gusao(Maid)(CU).png",
+            "climbresource": "Gusao(Maid)_Climb(CU).png"
             
         },
         {
@@ -169,8 +169,8 @@
             "package": "Mememura Hats",
             "name":"ぜんこぱす",
             "condition": "None",
-             "resource": "Zennkopasu.png",
-            "climbresource": "Zennkopasu_Climb.png"
+             "resource": "Zennkopasu(CU).png",
+            "climbresource": "Zennkopasu_Climb(CU).png"
         
         },
         {
@@ -179,8 +179,8 @@
             "package": "Mememura Hats",
             "name":"茶子",
             "condition": "None",
-             "resource": "Chaco.png",
-            "climbresource": "Chaco_Climb.png"
+             "resource": "Chaco(CU).png",
+            "climbresource": "Chaco_Climb(CU).png"
         
         },
          {
@@ -189,8 +189,8 @@
             "package": "Mememura Hats",
             "name":"菓子",
             "condition": "None",
-             "resource": "Caco.png",
-            "climbresource": "Caco_Climb.png"
+             "resource": "Caco(CU).png",
+            "climbresource": "Caco_Climb(CU).png"
         
         },
         {
@@ -199,8 +199,8 @@
             "package": "Mememura Hats",
             "name":"ネクロマンサーセット",
             "condition": "None",
-             "resource": "Accessories1.png",
-            "climbresource": "Accessories1_Climb.png"
+             "resource": "Accessories1(CU).png",
+            "climbresource": "Accessories1_Climb(CU).png"
             
         },
         {
@@ -209,7 +209,7 @@
             "package": "Mememura Hats",
             "name":"音割れ注意☆",
             "condition": "None",
-             "resource": "Accessories2.png",
+             "resource": "Accessories2(CU).png",
             "climbresource": "Empty_m.png"
             }
         ]
