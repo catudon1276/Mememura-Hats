@@ -77,8 +77,8 @@
             "package": "Mememura Hats",
             "name":"イエモン",
             "condition": "None",
-             "resource": "Iemon.png",
-            "climbresource": "Iemon_Climb.png"
+             "resource": "Iemon(CU).png",
+            "climbresource": "Iemon_Climb(CU).png"
             
         },
         {

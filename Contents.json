@@ -136,11 +136,11 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "Iemon.png",
+                "Address": "Iemon(CU).png",
                 "Hash": "55fb72f3c4ecdda7df28dc3f62e8b35a"
             },
             "Climb": {
-                "Address": "Iemon_Climb.png",
+                "Address": "Iemon_Climb(CU).png",
                 "Hash": "96d1b22b2cbbeb3eae4e641ec85995a2"
             }
         },
