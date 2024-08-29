@@ -371,7 +371,7 @@
             {
                 "Package": "Mememura Cosmicube",
                 "Format": "Mememura Cosmicube",
-                "Priority" : "3"
+                "Priority" : "-3"
             }
         ]
     }
