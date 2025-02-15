@@ -22,9 +22,9 @@
  
  本著作物の著作権は、以下記すメンバーに帰属する。(敬称略)</br>
  
+【現メンバー】
  ・めめんともり（@mememori893)</br>
  ・ウパパロン（@upapalon）</br>
- ・レイラー（@laloryukkuri）</br>
  ・Latte（@Latte3059）</br>
  ・みぞれ（@mizore471）</br>
  ・Iemon（@otea_2353）</br>
@@ -37,8 +37,20 @@
  ・ぜんこぱす（@zennkopasu）</br>
  ・茶子(@chaaaco_youtube）</br>
 </br>
+【元メンバー】</br>
+・レイラー（@laloryukkuri）</br>
 
 ## 使用されているMOD一覧</br>
 
 ・Nebula on the Ship（https://github.com/Dolly1016/Nebula/)</br>
 ・SuperNewRoles（https://github.com/ykundesu/SuperNewRoles）</br>
+
+## その他
+<問い合わせ・依頼について>
+下の連絡先から送信してくださると助かります。
+
+<連絡先>
+<連絡先>  
+Discord : [カツどん-catudon](https://discord.gg/mNgV3H6k)  
+Mail : tsumugi0590@gmail.com  
+X : [ネコうどん](https://x.com/catudon_1276)  
