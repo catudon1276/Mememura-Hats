@@ -22,7 +22,7 @@
  
  本著作物の著作権は、以下記すメンバーに帰属する。(敬称略)</br>
  
-【現メンバー】
+【現メンバー】</br>
  ・めめんともり（@mememori893)</br>
  ・ウパパロン（@upapalon）</br>
  ・Latte（@Latte3059）</br>
@@ -46,10 +46,9 @@
 ・SuperNewRoles（https://github.com/ykundesu/SuperNewRoles）</br>
 
 ## その他
-<問い合わせ・依頼について>
+<問い合わせ・依頼について>  
 下の連絡先から送信してくださると助かります。
 
-<連絡先>
 <連絡先>  
 Discord : [カツどん-catudon](https://discord.gg/mNgV3H6k)  
 Mail : tsumugi0590@gmail.com  
