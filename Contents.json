@@ -9,6 +9,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Mementomori(CU).png",
                 "Hash": "b512c43812e681b0fbeb736488f2b4f3" 
@@ -26,6 +27,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Mementomori(Street)(CU).png",
                 "Hash": "534f734d2f8e00aab41127e453c2bf04" 
@@ -47,6 +49,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Reira-(CU).png",
                 "Hash": "79c1ecb07db9caf255b6846555ed3e02"
@@ -64,6 +67,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Upaparon(CU).png",
                 "Hash": "953cd84d547200babcf272a6fb57842e"
@@ -82,6 +86,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Upaparon2(CU).png",
                 "Hash": "15177a53eece2fd5bf21a48afc13b6cd"
@@ -100,6 +105,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Latte(CU).png",
                 "Hash": "75f81d3eab69ab4b7df54cf752007a49" 
@@ -117,6 +123,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Mizore(CU).png",
                 "Hash": "14741ea730879b50c9a4b86d43faf586"
@@ -135,6 +142,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Iemon(CU).png",
                 "Hash": "55fb72f3c4ecdda7df28dc3f62e8b35a"
@@ -152,6 +160,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Sreimari(CU).png",
                 "Hash": "c450beb260796f5083f71ec146101b43"
@@ -169,6 +178,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Meteo(CU).png",
                 "Hash": "772bf006ee61c86a8bb813c52f488818"
@@ -186,6 +196,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Luka(CU).png",
                 "Hash": "cddd1035d73c9c95ff87e3d7201303bd"
@@ -204,6 +215,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Hina(CU).png",
                 "Hash": "921d2a377337bccbbd77d9ffb3350260"
@@ -221,6 +233,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "H.Diaz(CU).png",
                 "Hash": "560588c86e84bbad63bc58e35f393ea2"
@@ -238,6 +251,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Ganmas(CU).png",
                 "Hash": "0cc8c6399b58ca58a58d2e179e19bf3a"
@@ -255,6 +269,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Gusao(CU).png",
                 "Hash": "f3116ec9910f254d6bd13f4b93a39a87"
@@ -272,6 +287,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Gusao(Maid)(CU).png",
                 "Hash": "13ac11c2bf446dbd05fd176966c68bb9"
@@ -289,6 +305,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Zennkopasu(CU).png",
                 "Hash": "8dd1cc422bdee5da5c7b70e57772e473"
@@ -306,6 +323,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Chaco(CU).png",
                 "Hash": "035ed81bbd9a6a9859da6f8ff48bfa50"
@@ -323,6 +341,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "SeekerCostume" : "false",
             "Main": {
                 "Address": "Caco(CU).png",
                 "Hash": "6155897be0915e88601e477a0a2fbe30"
